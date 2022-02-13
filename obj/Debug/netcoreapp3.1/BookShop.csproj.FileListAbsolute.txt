@@ -1,0 +1,14 @@
+C:\Users\SULEYMAN\OneDrive\Masaüstü\Kendi Çalışmalarım\BookShop\bin\Debug\netcoreapp3.1\BookShop.exe
+C:\Users\SULEYMAN\OneDrive\Masaüstü\Kendi Çalışmalarım\BookShop\bin\Debug\netcoreapp3.1\BookShop.deps.json
+C:\Users\SULEYMAN\OneDrive\Masaüstü\Kendi Çalışmalarım\BookShop\bin\Debug\netcoreapp3.1\BookShop.runtimeconfig.json
+C:\Users\SULEYMAN\OneDrive\Masaüstü\Kendi Çalışmalarım\BookShop\bin\Debug\netcoreapp3.1\BookShop.runtimeconfig.dev.json
+C:\Users\SULEYMAN\OneDrive\Masaüstü\Kendi Çalışmalarım\BookShop\bin\Debug\netcoreapp3.1\BookShop.dll
+C:\Users\SULEYMAN\OneDrive\Masaüstü\Kendi Çalışmalarım\BookShop\bin\Debug\netcoreapp3.1\BookShop.pdb
+C:\Users\SULEYMAN\OneDrive\Masaüstü\Kendi Çalışmalarım\BookShop\obj\Debug\netcoreapp3.1\BookShop.csproj.AssemblyReference.cache
+C:\Users\SULEYMAN\OneDrive\Masaüstü\Kendi Çalışmalarım\BookShop\obj\Debug\netcoreapp3.1\BookShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SULEYMAN\OneDrive\Masaüstü\Kendi Çalışmalarım\BookShop\obj\Debug\netcoreapp3.1\BookShop.AssemblyInfoInputs.cache
+C:\Users\SULEYMAN\OneDrive\Masaüstü\Kendi Çalışmalarım\BookShop\obj\Debug\netcoreapp3.1\BookShop.AssemblyInfo.cs
+C:\Users\SULEYMAN\OneDrive\Masaüstü\Kendi Çalışmalarım\BookShop\obj\Debug\netcoreapp3.1\BookShop.csproj.CoreCompileInputs.cache
+C:\Users\SULEYMAN\OneDrive\Masaüstü\Kendi Çalışmalarım\BookShop\obj\Debug\netcoreapp3.1\BookShop.dll
+C:\Users\SULEYMAN\OneDrive\Masaüstü\Kendi Çalışmalarım\BookShop\obj\Debug\netcoreapp3.1\BookShop.pdb
+C:\Users\SULEYMAN\OneDrive\Masaüstü\Kendi Çalışmalarım\BookShop\obj\Debug\netcoreapp3.1\BookShop.genruntimeconfig.cache

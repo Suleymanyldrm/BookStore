@@ -1,0 +1,14 @@
+C:\Users\SULEYMAN\OneDrive\Masaüstü\KitapDukkani\bin\Debug\netcoreapp3.1\KitapDukkani.exe
+C:\Users\SULEYMAN\OneDrive\Masaüstü\KitapDukkani\bin\Debug\netcoreapp3.1\KitapDukkani.deps.json
+C:\Users\SULEYMAN\OneDrive\Masaüstü\KitapDukkani\bin\Debug\netcoreapp3.1\KitapDukkani.runtimeconfig.json
+C:\Users\SULEYMAN\OneDrive\Masaüstü\KitapDukkani\bin\Debug\netcoreapp3.1\KitapDukkani.runtimeconfig.dev.json
+C:\Users\SULEYMAN\OneDrive\Masaüstü\KitapDukkani\bin\Debug\netcoreapp3.1\KitapDukkani.dll
+C:\Users\SULEYMAN\OneDrive\Masaüstü\KitapDukkani\bin\Debug\netcoreapp3.1\KitapDukkani.pdb
+C:\Users\SULEYMAN\OneDrive\Masaüstü\KitapDukkani\obj\Debug\netcoreapp3.1\KitapDukkani.csproj.AssemblyReference.cache
+C:\Users\SULEYMAN\OneDrive\Masaüstü\KitapDukkani\obj\Debug\netcoreapp3.1\KitapDukkani.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SULEYMAN\OneDrive\Masaüstü\KitapDukkani\obj\Debug\netcoreapp3.1\KitapDukkani.AssemblyInfoInputs.cache
+C:\Users\SULEYMAN\OneDrive\Masaüstü\KitapDukkani\obj\Debug\netcoreapp3.1\KitapDukkani.AssemblyInfo.cs
+C:\Users\SULEYMAN\OneDrive\Masaüstü\KitapDukkani\obj\Debug\netcoreapp3.1\KitapDukkani.csproj.CoreCompileInputs.cache
+C:\Users\SULEYMAN\OneDrive\Masaüstü\KitapDukkani\obj\Debug\netcoreapp3.1\KitapDukkani.dll
+C:\Users\SULEYMAN\OneDrive\Masaüstü\KitapDukkani\obj\Debug\netcoreapp3.1\KitapDukkani.pdb
+C:\Users\SULEYMAN\OneDrive\Masaüstü\KitapDukkani\obj\Debug\netcoreapp3.1\KitapDukkani.genruntimeconfig.cache
